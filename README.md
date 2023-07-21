@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Animeshhit
 - 👀 I’m interested in Web Devlopement
-- 🌱 I’m currently learning Chakra UI
+- 🌱 I’m currently learning DS&A
 - 📫 How to reach me click [here](animeshkumbhakarhit2@gmail.com)
 
 # Full Stack Web Developer & Java Developer
