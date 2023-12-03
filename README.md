@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Animeshhit
+- 👋 Hi, I’m Animesh kumbhakar
 - 👀 I’m interested in Web Devlopement
 - 🌱 I’m currently learning DS&A
 - 📫 How to reach me click [here](mailto:animeshkumbhakarhit2@gmail.com)
