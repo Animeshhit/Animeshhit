@@ -1,25 +1,48 @@
-- 👋 Hi, I’m Animesh kumbhakar
-- 👀 I’m interested in Web Devlopement
-- 🌱 I’m currently learning DS&A
-- 📫 How to reach me click [here](mailto:animeshkumbhakarhit2@gmail.com)
+# 👋 Hi, I’m Animesh Kumbhakar
 
-# Full Stack Web Developer & Java Developer
+- 👀 I’m passionate about Web Development & Software Engineering  
+- 🚀 I’ve solved over **1000+ DSA questions** and have strong problem-solving skills  
+- 📫 How to reach me: [animeshkumbhakarhit2@gmail.com](mailto:animeshkumbhakarhit2@gmail.com)
 
-Hey there! I'm a full-stack web developer and Java developer with a passion for building robust, scalable, and intuitive web applications. 
+---
 
-## Front-end Development
+# 💻 Full Stack Web Developer & Java Developer
 
-In my front-end work, I leverage HTML, CSS, and JavaScript to craft engaging and visually appealing user interfaces. I am also proficient in popular front-end frameworks like React, Next js which allow me to build responsive, dynamic, and interactive web applications.
+Hey there! I'm a full-stack web developer and Java developer with a passion for building robust, scalable, and intuitive web applications.
 
-## Back-end Development
+## 🚀 Skills & Expertise
 
-For back-end development, I specialize in Nodejs, Java and its associated frameworks like Spring Boot and Hibernate. I have experience working with relational databases like MySQL, as well as non-relational databases like MongoDB. 
+### Front-end Development
+- HTML, CSS, JavaScript
+- React.js, Next.js
+- Responsive & dynamic UI design
 
-## Full Stack Experience
+### Back-end Development
+- Node.js, Express.js
+- Java, Spring Boot, Hibernate
+- RESTful APIs, Authentication, MVC architecture
 
-With my full-stack experience, I can take a project from conception to completion, handling both front-end and back-end development tasks. I also have experience working with cloud platforms like AWS, and I am comfortable working with tools like Git, JIRA, and Slack for project management and collaboration.
+### Databases
+- MySQL, MongoDB
 
-If you're looking for a reliable and skilled developer for your web application project, let's connect and bring your ideas to life!
+### DevOps & Tools
+- Git, GitHub, JIRA, Slack
+- AWS (basics), Firebase
+
+### Data Structures & Algorithms
+- Solved 1000+ DSA problems across platforms like LeetCode, CodeStudio, and GFG
+- Strong knowledge of problem-solving, time/space complexity, and core data structures
+
+---
+
+## 🧠 Full Stack Experience
+
+From crafting user interfaces to designing scalable backend systems, I take pride in delivering end-to-end solutions. I’m always learning, always building.
+
+If you're looking for a reliable and skilled developer for your project, let’s connect and bring your ideas to life!
+
+---
+
 <!---
 Animeshhit/Animeshhit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
