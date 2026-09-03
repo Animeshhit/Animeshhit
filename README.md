@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Kumbhakar</h1>
-<h3 align="center">React • Next.js • TypeScript • JavaScript • Node.js • Express.js • PostgreSQL • MongoDB • REST APIs • Go Fiber</h3>
+<h3 align="center">React • Next.js • TypeScript • Node.js • Express.js • PostgreSQL • MongoDB • REST APIs • Go Fiber</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
@@ -17,7 +17,7 @@
 
 Full Stack Developer with **1.5+ years of experience** building and owning production systems end-to-end — from UI to backend architecture. I specialize in scalable admin panels, e-commerce platforms, and CMS-driven websites, working across **React, Next.js, TypeScript, Node.js, Express, and Go Fiber** with **MongoDB and PostgreSQL**.
 
-Most recently at **Battlebucks**, I led frontend and backend development across the Admin Panel, Store, and Deep Linking Platform. Key outcomes included:
+Most recently at **[Battlebucks](https://www.linkedin.com/company/battlebucks/posts/)**, I led frontend and backend development across the Admin Panel, Store, and Deep Linking Platform. Key outcomes included:
 
 - 🔐 Built a dynamic role-based access system powering an internal admin panel used across multiple company teams
 - ⚡ Reduced manual KYC processing time by **~40%** through HyperVerge integration
@@ -108,7 +108,7 @@ I combine frontend craftsmanship (**Framer Motion, GSAP, Tailwind**) with backen
 
 | Company | Role | Duration | Highlights |
 |---|---|---|---|
-| **Battlebucks** | Full Stack Developer | 06/2025 – 08/2026 | Led admin panel, store & deep-linking platform; ~40% faster KYC, ~30% faster release cycles |
+| **[Battlebucks](https://www.linkedin.com/company/battlebucks/posts/)** | Full Stack Developer | 06/2025 – 08/2026 | Led admin panel, store & deep-linking platform; ~40% faster KYC, ~30% faster release cycles |
 | **The Craftly Shop** | Full Stack Developer (Freelance) | 03/2025 – 05/2025 | Built order & refund system for 500+ orders; ~35% faster load times |
 | **Pixamentory Online Services** | Full Stack Developer | 11/2024 – 03/2025 | Built scalable admin panel with Next.js + Go Fiber microservices |
 
