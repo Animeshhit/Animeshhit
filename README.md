@@ -109,8 +109,8 @@ I combine frontend craftsmanship (**Framer Motion, GSAP, Tailwind**) with backen
 | Company | Role | Duration | Highlights |
 |---|---|---|---|
 | **[Battlebucks](https://www.linkedin.com/company/battlebucks/posts/)** | Full Stack Developer | 06/2025 – 08/2026 | Led admin panel, store & deep-linking platform; ~40% faster KYC, ~30% faster release cycles |
-| **The Craftly Shop** | Full Stack Developer (Freelance) | 03/2025 – 05/2025 | Built order & refund system for 500+ orders; ~35% faster load times |
-| **Pixamentory Online Services** | Full Stack Developer | 11/2024 – 03/2025 | Built scalable admin panel with Next.js + Go Fiber microservices |
+| **PromoNex** | Frontend Developer (Freelance) | 03/2024 – 05/2025 | Built order & refund system for 500+ orders; ~35% faster load times |
+| **Pixamentory Online Services** | Full Stack Developer | 11/2023 – 03/2024 | Built scalable admin panel with Next.js + Go Fiber microservices |
 
 ---
 
