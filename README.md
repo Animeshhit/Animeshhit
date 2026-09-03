@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Animesh Kumbhakar</h1>
-<h3 align="center">Full Stack Developer | React • Next.js • Node.js • Go Fiber</h3>
+<h3 align="center">React • Next.js • TypeScript • JavaScript • Node.js • Express.js • PostgreSQL • MongoDB • REST APIs • Go Fiber</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
@@ -15,14 +15,21 @@
 
 ---
 
-### 🚀 About Me
+Full Stack Developer with **1.5+ years of experience** building and owning production systems end-to-end — from UI to backend architecture. I specialize in scalable admin panels, e-commerce platforms, and CMS-driven websites, working across **React, Next.js, TypeScript, Node.js, Express, and Go Fiber** with **MongoDB and PostgreSQL**.
 
-- 💻 Full Stack Developer, most recently leading frontend & backend work at **Battlebucks** (till Aug 2026)
-- 🛠️ I build **admin panels, e-commerce platforms, and CMS-driven websites** that scale
-- 🎯 Reduced KYC processing time by ~40%, saved ~30% release time with WebView architecture, and manage systems handling 10,000+ deep link events
-- 🎓 B.Tech in Electrical Engineering, Haldia Institute of Technology (2026) — switched lanes into software and never looked back
-- 🌱 Currently exploring: system design, performance optimization, and microservice architecture
-- ⚡ Fun fact: I started freelancing and landed a full-time dev job *while still in college*
+Most recently at **Battlebucks**, I led frontend and backend development across the Admin Panel, Store, and Deep Linking Platform. Key outcomes included:
+
+- 🔐 Built a dynamic role-based access system powering an internal admin panel used across multiple company teams
+- ⚡ Reduced manual KYC processing time by **~40%** through HyperVerge integration
+- 📱 Designed a WebView-based store layer for Android & iOS, cutting release/update time by **~30%**
+- 🛒 Built and scaled an e-commerce storefront managing **1000+ SKUs**, including payment integrations
+- 🔗 Architected a deep-linking analytics platform (similar to AppsFlyer) handling **10,000+ events**
+
+Earlier, I built CMS-driven websites using **Strapi** and **Sanity** — including a system that let a company's internal legal and audit team edit policy content directly, with changes reflecting live on the website automatically, removing manual dev dependency for every update.
+
+I combine frontend craftsmanship (**Framer Motion, GSAP, Tailwind**) with backend ownership (**REST APIs, microservices, caching, databases**), and I'm comfortable working across the stack to ship complete features rather than isolated pieces.
+
+🎓 B.Tech — completed June 2026
 
 ---
 
@@ -77,6 +84,22 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+
+**Testing**
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=flat-square&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supertest-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+</p>
+
+**Message Queues & Background Jobs**
+<p>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 ---
