@@ -17,7 +17,7 @@
 
 ### 🚀 About Me
 
-- 💻 Full Stack Developer, currently leading frontend & backend work at **Battlebucks**
+- 💻 Full Stack Developer, most recently leading frontend & backend work at **Battlebucks** (till Aug 2025)
 - 🛠️ I build **admin panels, e-commerce platforms, and CMS-driven websites** that scale
 - 🎯 Reduced KYC processing time by ~40%, saved ~30% release time with WebView architecture, and manage systems handling 10,000+ deep link events
 - 🎓 B.Tech in Electrical Engineering, Haldia Institute of Technology (2026) — switched lanes into software and never looked back
@@ -85,7 +85,7 @@
 
 | Company | Role | Duration | Highlights |
 |---|---|---|---|
-| **Battlebucks** | Full Stack Developer | 06/2025 – Present | Led admin panel, store & deep-linking platform; ~40% faster KYC, ~30% faster release cycles |
+| **Battlebucks** | Full Stack Developer | 06/2025 – 08/2025 | Led admin panel, store & deep-linking platform; ~40% faster KYC, ~30% faster release cycles |
 | **The Craftly Shop** | Full Stack Developer (Freelance) | 03/2025 – 05/2025 | Built order & refund system for 500+ orders; ~35% faster load times |
 | **Pixamentory Online Services** | Full Stack Developer | 11/2024 – 03/2025 | Built scalable admin panel with Next.js + Go Fiber microservices |
 
@@ -114,22 +114,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 🎓 Education
 
-**Haldia Institute of Technology** — B.Tech, Electrical Engineering (2026)
+**Haldia Institute of Technology** — Bachelor of Technology (Degree Completed), June 2026
 **Babugram Sammilani High School** — Senior Secondary (XII), WBCHSE, 2022
 
 ---
